@@ -1,0 +1,7 @@
+Library/ShaderCache.db
+Library/ShaderCache/*
+*.log
+*.buildreport
+*.exe
+Temp
+TetrisDummy_Data
